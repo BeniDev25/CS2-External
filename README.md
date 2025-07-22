@@ -2,6 +2,8 @@
 
 **An external cheat for Counter-Strike 2, written in Python.**
 
+Maked this Cheat for fun and called in Nova but you can make you full own Project with that!
+
 **Many Features are not working, but the project is open source so feel free to make it better!**
 **Aimbot is pretty strong but is most likely detected in normal games so you need to chill! (Arduino is UD)
 
