@@ -1,0 +1,12 @@
+{
+    "enabled": false,
+    "fov": 60.0,
+    "smooth": 1.0,
+    "sensitivity": 1.0,
+    "onlyEnemies": true,
+    "bone": 6,
+    "bone_selection": "Head",
+    "show_fov": false,
+    "wall_check": true,
+    "anti_recoil": false
+}
